@@ -3,7 +3,7 @@ import java.lang.Math;
 
 public class SciCalculator {
     public static void main(String[] args) {
-
+//*TEST
         Scanner scnr = new Scanner(System.in);
         //Defining integers
         double sum = 0;
